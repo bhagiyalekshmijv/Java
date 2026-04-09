@@ -1,0 +1,1 @@
+this is an example data i am storing in side data.txt.
