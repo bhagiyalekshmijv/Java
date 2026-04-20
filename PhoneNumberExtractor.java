@@ -13,7 +13,7 @@ public class PhoneNumberExtractor {
 
         String regex = "\\b\\d{10}\\b";
 
-        Pattern pattern = Pattern.compile(regex);
+        JavaExam1Pattern pattern = JavaExam1Pattern.compile(regex);
 
         Matcher matcher = pattern.matcher(message);
 
